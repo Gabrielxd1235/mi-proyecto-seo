@@ -16,6 +16,10 @@ export const metadata: Metadata = {
     template: `%s | ${SITE_NAME}`,
   },
   description: "Aprende sobre optimización SEO y rendimiento en Next.js.",
+  // Verificación de propiedad en Google Search Console (etiqueta HTML).
+  verification: {
+    google: "6O2hMAfKyH_XXBWXw2k6qSTDWv8MCZ0N2m5AQ9gQlnc",
+  },
   openGraph: {
     siteName: SITE_NAME,
     locale: "es_PE",
