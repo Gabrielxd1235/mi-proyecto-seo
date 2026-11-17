@@ -1,6 +1,6 @@
 // URL pública del sitio. Se puede sobreescribir con NEXT_PUBLIC_SITE_URL en producción.
 export const BASE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://mi-sitio.com";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://mi-proyecto-seo-vsyh.onrender.com";
 
 export const SITE_NAME = "Mi Sitio Optimizado";
 
